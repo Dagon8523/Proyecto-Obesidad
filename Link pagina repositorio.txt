@@ -1,1 +1,7 @@
 https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
+
+
+
+https://github.com/Izainea/Proyecto_1/blob/ee0dd4e1bb59166f19119f4726362a8feb9765f2/C%C3%B3digo/Caso%20Obesidad-2024.ipynb#L4
+
+
