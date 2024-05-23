@@ -1,13 +1,11 @@
-## UNIVERSIDAD EAN 
 
-## 22/05/2024
 
 <h1 align="center"> MACHINE LEARNING</h1>
 
+<h1 align="center"> UNIVERSIDAD EAN</h1>
+
 <h1 align="left"> MODELOS DE APRENDIZAJE SUPERVISADO Y NO SUPERVISADO</h1>
  
-
-
 
 ## PROYECTO REALIZADO POR :
                ANGIE PERILLA
