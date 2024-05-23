@@ -1,0 +1,10 @@
+supervisado
+
+random 
+logistica
+maquina soporte vectorial
+knm
+
+
+
+no supervisado

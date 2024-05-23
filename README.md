@@ -1,2 +1,19 @@
-# Proyecto-Obesidad
-Poryecto EAN Machine Learning
+UNIVERSIDAD EAN 
+22/05/2024
+MACHINE LEARNING 
+
+MODELOS DE APRENDIZAJE SUPERVISADO Y NO SUPERVISADO
+
+PROYECTO REALIZADO POR :
+               ANGIE PERILLA
+               DANIEL GONZALEZ
+
+
+LINK DEL REPOSITORIO EN GITHUB:
+   BRANCH MASTER : 
+
+       https://github.com/Dagon8523/Proyecto-Obesidad
+
+
+
+ 
